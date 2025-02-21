@@ -25,8 +25,7 @@ Each folder represents an **independent ETL pipeline** with its own implementati
 
 ## 🎯 Expected Outcome  
 
-- ✅ Well-structured, cleaned, and formatted data.  
-- ✅ Scalable and modular ETL pipelines.  
+- ✅ Well-structured, cleaned, and formatted data.    
 - ✅ Ready-to-use datasets stored in a relational database for querying and analytics.  
 
 ---
